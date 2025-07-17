@@ -7,11 +7,11 @@
 
 ---
 
-- 🌱 I’m currently learning: **PHP, Laravel, and Cyber Security tools**
-- 💻 Working on: **Web apps, security automation scripts**
-- 👯 Open to collaborate on: **Web development or security-focused projects**
-- 🔐 Focused on: **System vulnerabilities, ethical hacking techniques**
-- ⚡ Fun fact: I enjoy building logic-based games like Connect 4
+- 🌱 I’m currently learning: **PHP, Laravel, Cyber Security tools and techniques**
+- 💻 Working on: **Web applications, security automation & vulnerability research**
+- 👯 Open to collaborate on: **Cyber‑secure web apps, penetration testing, CTFs**
+- 🔐 Passionate about: **System hardening, ethical hacking, network defence**
+- ⚡ Fun fact: I build logic-based games like Connect 4 and enjoy CTF challenges
 
 ---
 
@@ -21,6 +21,16 @@
 - 🎮 [Connect 4 Game](https://github.com/Joeali22/Projects/blob/main/Connect_4.zip)
 - 🔐 [Cyber Security Project](https://github.com/Joeali22/Projects/blob/main/cys%20project.zip)
 - 📊 [Crime Rate Analysis (Python)](https://github.com/Joeali22/Projects/blob/main/crimeRateProject.py)
+
+---
+
+### 🧠 Cyber Security Expertise
+
+Based on my LinkedIn profile and background, I specialize in:
+- 💻 Web app vulnerability assessment and mitigation
+- 🕵️‍♂️ Security script automation using Python
+- 🛡️ System and network hardening
+- 🔓 Ethical hacking and Capture The Flag (CTF) participation
 
 ---
 
@@ -43,10 +53,10 @@
 #### Languages
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-#### Frameworks & Tools
+#### Cyber & Dev Tools
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -69,7 +79,7 @@
   <a href="https://instagram.com/yousef._.eljoe" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/yousef-ali-5141252a7" target="_blank">
+  <a href="https://www.linkedin.com/in/yousef-adam-5141252a7/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40" />
   </a>
   <a href="https://github.com/Joeali22" target="_blank">
